@@ -14,4 +14,3 @@ if __name__ == '__main__':
 		else:
 			palin_res = check_str_palindrome(usr_inp)
 			print(palin_res)
-			break
